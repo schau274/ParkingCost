@@ -7,7 +7,7 @@ namespace Parking
     internal class Customers
     {
         //
-        //  Parking cost varibles
+        //  Parking cost varible
         // 
 
         const double minimunCharge = 2.0; 
